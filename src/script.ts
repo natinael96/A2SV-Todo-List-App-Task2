@@ -46,7 +46,7 @@ function editTask(id: number) {
     }
 }
 
-function deleteTask(id: number): void {
+function deleteTask(id: number) {
     const task = document.getElementById(`task-${id}`);
     if (task) {
         task.remove();
