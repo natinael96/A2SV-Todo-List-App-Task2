@@ -40,4 +40,3 @@ Click the "Delete" button next to the task you want to remove.
 Click the checkbox next to the task to mark it as complete or incomplete. The task text will be visually updated to reflect its status.
 
 ![alt text](ss/image-5.png)
-
